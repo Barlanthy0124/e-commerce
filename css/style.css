@@ -1,0 +1,166 @@
+/*img caraousel*/
+
+img.d-block {
+	height: 270px;
+}
+
+
+.jumbotron {
+	padding-top: 10px;
+
+}
+
+
+/*title content*/
+.link-title {
+	text-decoration: none;
+	color: #000;
+}
+
+.link-title:hover a {
+	color: #0047b3;
+}
+
+
+
+/*content shop*/
+a#card-img-top{
+	text-decoration: none;
+	color: #000;
+}
+
+
+
+/*Product List*/
+/*bonus*/
+.disc {
+	font-size: 11px;
+	font-weight: bold;
+}
+
+p.disc {
+	background-color: #ffe066;
+  	display:inline-block;
+  	padding: 5px 10px 5px 10px; /* atas kiri bawah kanan*/
+  	border-radius: 3px;
+}
+
+.detailhrg{
+	display: flex;
+}
+
+
+/*Product Detail*/
+h3 {
+	padding-left: 9px;
+}
+
+h3.harga {
+	background-color: #f2f2f2;
+  	display:block;
+  	margin-top: -10px;
+  	padding-top: 9px;
+  	padding-bottom: 9px;
+  	border-radius: 3px;
+
+}
+
+.sold {
+	padding-right: 3px;
+	font-weight: bold;
+}
+
+
+.hrg-text {
+	font-size: 14px;
+	padding-top: 1px
+}
+
+
+
+
+/* specifikasi product */
+p.spec {
+	margin-top: 3px;
+}
+
+.warna {
+	display: inline;
+	padding: 5px 10px 5px 10px; /* atas kiri bawah kanan*/
+	border: 2px solid #d9d9d9;
+	background-color: transparent;
+	margin-left: 13px;
+	margin-top: -5px;
+}
+
+a.warna {
+	text-decoration: none;
+	color: #000;
+}
+
+
+a.warna:hover {
+	border: 2px solid #33adff;
+}
+
+h5 {
+	padding-left: 13px;
+}
+
+h5.harga {
+	background-color: #f2f2f2;
+  	display:block;
+  	margin-top: 10px;
+  	margin-bottom: 20px;
+  	padding-top: 9px;
+  	padding-bottom: 9px;
+  	border-radius: 3px;
+
+}
+
+
+/*kuantitas*/
+.kuantitas {
+	display: inline;
+	padding: -5px 5px -10px 5px; /* atas kanan bawah kanan*/
+	border: 1px solid #d9d9d9;
+	background-color: transparent;
+	margin-top: -5px;
+	margin-left: -1px;
+}
+
+a.kuantitas {
+	text-decoration: none;
+	color: #000;
+}
+
+/*vertical line*/
+.fa-grip-lines-vertical {
+	padding-left: 5px;
+}
+
+i {
+	padding-right: 5px;
+	color: #666;
+}
+
+/* Footer */
+.card-footer {
+	margin-top: 150px;
+	background-color: #000;
+}
+
+p.text-footer {
+	color: #ccc;
+}
+
+
+ a.hover:hover i {
+	color: #999;
+}
+
+hr {
+	width: 100%;
+	padding-left: -30px;
+}
+

@@ -1,0 +1,76 @@
+/*img caraousel*/
+div.carousel,.content-tagihan {
+	margin-top: 30px;
+}
+
+
+img.d-block {
+	height: 270px;
+}
+
+
+.jumbotron {
+	padding-top: 10px;
+
+}
+
+
+/*title content*/
+.link-title {
+	text-decoration: none;
+	color: #000;
+}
+
+.link-title:hover a {
+	color: #0047b3;
+}
+
+
+
+/*content shop*/
+a#card-img-top{
+	text-decoration: none;
+	color: #000;
+}
+
+
+
+/*Product List*/
+/*bonus*/
+.bonus {
+	font-size: 11px;
+}
+
+h6.bonus {
+	background-color: #ffe066;
+  	display:inline-block;
+  	padding: 5px 10px 5px 10px; /* atas kiri bawah kanan*/
+  	border-radius: 3px;
+}
+
+
+/* Footer */
+.card-footer {
+	margin-top: 150px;
+	background-color: #000;
+}
+
+p.text-footer {
+	color: #ccc;
+}
+
+
+i {
+	padding-right: 20px;
+	color: #666;
+}
+
+ a.hover:hover i {
+	color: #999;
+}
+
+hr {
+	width: 100%;
+	padding-left: -30px;
+}
+
