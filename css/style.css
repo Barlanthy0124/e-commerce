@@ -144,6 +144,15 @@ i {
 	color: #666;
 }
 
+
+
+/**/
+p.text-center a{
+	text-decoration: none;
+}
+
+
+
 /* Footer */
 .card-footer {
 	margin-top: 150px;
