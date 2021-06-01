@@ -1,3 +1,21 @@
+/* registrasi */
+.registrasi_box {
+	margin-top: 150px;
+	padding: 30px 30px 20px 30px; /* atas kanan bawah kiri */
+	background-color: rgba(255,255,255,0.2);
+}
+
+hr {
+	margin-top: 20px;
+}
+
+.registrasi_remember {
+	margin-top: 20px;
+}
+
+.registrasi_remember a {
+	text-decoration: none;
+}
 /*img caraousel*/
 
 img.d-block {
